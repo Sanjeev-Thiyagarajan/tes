@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1beta1
 kind: Component
 metadata:
-  name: shopping-cart
-  description: shopping cart api
+  name: recommendation-service
+  description: Recommendation service api
   annotations:
     backstage.io/techdocs-ref: dir:.
   tags:
