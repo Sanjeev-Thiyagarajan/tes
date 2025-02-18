@@ -20,7 +20,7 @@
 
 ---
 
-To use this service we properly we need to utilize a cassandra database
+> To use this service we properly we need to utilize a cassandra database
 
 ## Typographic replacements
 
