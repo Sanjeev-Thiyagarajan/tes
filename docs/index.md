@@ -20,6 +20,8 @@
 
 ---
 
+To use this service we properly we need to utilize a cassandra database
+
 ## Typographic replacements
 
 Enable typographer option to see result.
